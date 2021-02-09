@@ -3,4 +3,4 @@
 A simple bash script to install docker and docker-compose for Linux.
 
 ### Run
-- `bash docker-install` 
+- `bash docker-install.sh`
